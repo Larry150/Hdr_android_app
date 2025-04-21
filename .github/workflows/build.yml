@@ -38,4 +38,3 @@ jobs:
         with:
           name: hdr_app.apk
           path: bin/*.apk
-          
